@@ -1,7 +1,7 @@
 {
   "format_version": 1,
   "group": "MyPythonApp",
-  "name": "SampleCode",
+  "name": "RunApp",
   "materials": [
     {
       "url": "https://github.com/ccsalway/sample-code.git",
